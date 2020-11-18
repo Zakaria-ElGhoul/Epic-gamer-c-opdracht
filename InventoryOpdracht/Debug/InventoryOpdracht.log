@@ -1,0 +1,8 @@
+﻿  InventoryOpdracht.cpp
+C:\Users\zakae\source\repos\InventoryOpdracht\InventoryOpdracht\Item.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\zakae\source\repos\InventoryOpdracht\InventoryOpdracht\Item.h(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Item.cpp
+C:\Users\zakae\source\repos\InventoryOpdracht\InventoryOpdracht\Item.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\zakae\source\repos\InventoryOpdracht\InventoryOpdracht\Item.h(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Generating Code...
+  InventoryOpdracht.vcxproj -> C:\Users\zakae\source\repos\InventoryOpdracht\Debug\InventoryOpdracht.exe
