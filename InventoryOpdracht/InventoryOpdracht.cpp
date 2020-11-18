@@ -2,9 +2,13 @@
 //
 
 #include <iostream>
-
+#include "Item.h"
 int main()
 {
-    std::cout << "Hello World!\n";
+    Item* item = new Item("dikke baap", 12, "Zwaard");
+
+    std::cout << item->GetName();
+    std::cout << item->GetCoinValue();
+    std::cout << item->GetTypeID();
 }
 
